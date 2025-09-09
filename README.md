@@ -4,3 +4,8 @@ This repository is for tracking my reactjs learning. I will share my journey on 
 ## Day 01: Sep 06, 2025 (06/09/2025)
 I started learning react js from Jonas Schmedtmann. Topics I have covered: Why FE frameworks exists, React vs Vanilla Javascript, Pure React, Setting up dev environment, & New way of creating react app using vite. I completed first 3 sections of the course and the 4th one is js refreshing so I didn't watch it. Created my first react app using npm install -g yarn + yarn create react-app my-app, this npx create-react-app not worked for me.
 
+## Day 02: Sep 07, 2025 (07/09/2025)
+Topics I have covered: working with components, props, and JSX. I learned rendering root component & strict mode, JSX, JS logic in components, separation of concerns, styling react apps, passing and receiving props and props immutibility, one way data flow, rendering conditionally with && and ternary operator.
+
+## Day 03: Sep 08, 2025 (08/09/2025)
+Topics I have covered: solved a coding challenge using react. Setting classes conditionally, Build a simple component, Handling events in react way & React State. Revised topics using notes.
