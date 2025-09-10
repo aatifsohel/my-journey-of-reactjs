@@ -11,6 +11,8 @@ Topics I have covered: working with components, props, and JSX. I learned render
 Topics I have covered: solved a coding challenge using react. Setting classes conditionally, Build a simple component, Handling events in react way & React State. Revised topics using notes.
 
 
-## Day 04: Sep 09, 2025 (08/09/2025)
-
+## Day 04: Sep 09, 2025 (09/09/2025)
 Topics I covered: React State, state variables & the setter function, why you should never update state manually in react, updating current state, and the mechanics behind how state works. Completed a simple component called 'Steps'.
+
+## Day 05: Sep 10, 2025 (10/09/2025)
+Topics I covered: Solved a coding challenge - Date Counter, Started new project far away, Build layout & rendered list. 
