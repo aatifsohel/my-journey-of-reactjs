@@ -16,3 +16,6 @@ Topics I covered: React State, state variables & the setter function, why you sh
 
 ## Day 05: Sep 10, 2025 (10/09/2025)
 Topics I covered: Solved a coding challenge - Date Counter, Started new project far away, Build layout & rendered list. 
+
+## Day 06: Sep 11, 2025 (11/09/2025)
+Topics I covered: Solved two coding challenges, what is thinking in react?, fundamentals of state management (when, where, how) & lifting up state. Added removing list item feature from Far Away project.
