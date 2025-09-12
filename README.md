@@ -19,3 +19,6 @@ Topics I covered: Solved a coding challenge - Date Counter, Started new project 
 
 ## Day 06: Sep 11, 2025 (11/09/2025)
 Topics I covered: Solved two coding challenges, what is thinking in react?, fundamentals of state management (when, where, how) & lifting up state. Added removing list item feature from Far Away project.
+
+## Day 07: Sep 12, 2025 (12/09/2025)
+Topics I covered: React child to parent communication, deleting & updating list item, derived state & avoiding useless calculations, added sorting & clearing feature in Far Away app and separated components into different files.
