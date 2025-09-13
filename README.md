@@ -22,3 +22,6 @@ Topics I covered: Solved two coding challenges, what is thinking in react?, fund
 
 ## Day 07: Sep 12, 2025 (12/09/2025)
 Topics I covered: React child to parent communication, deleting & updating list item, derived state & avoiding useless calculations, added sorting & clearing feature in Far Away app and separated components into different files.
+
+## Day 08: Sep 13, 2025 (13/09/2025)
+Topics I covered: React - Children props, solved two coding challenges, build a simple accordion & tip calculator. Today I spent more time on coding.
