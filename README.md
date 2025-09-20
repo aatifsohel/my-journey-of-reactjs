@@ -38,5 +38,8 @@ Topics I covered: Finished "Eat-N-Split" project. Analyzed the code & understood
 ## Day 12: Sep 18, 2025 (18/09/2025)
 Topics I covered: Thinking in react, splitting UI into components, components categories and started working on 'usePopcorn' project.
 
-## Day 13: Sep 19, 2025 (18/09/2025)
+## Day 13: Sep 19, 2025 (19/09/2025)
 Topics I covered: Prop drilling, component categories, ways to fix prop drilling, component composition to make layout, explicit (as props) & implicit (as children) passing of elements.
+
+## Day 13: Sep 20, 2025 (20/09/2025)
+Topics I covered: Props as Component API, Reusability with props, PropTypes, Made 'Ratings' Component, Solved one coding challenge 'Text Expander'
