@@ -46,3 +46,6 @@ Topics I covered: Props as Component API, Reusability with props, PropTypes, Mad
 
 ## Day 15: Sep 21, 2025 (21/09/2025)
 Topics I covered: Components, instances and elements, how rendering works, render phase.
+
+## Day 16: Sep 22, 2025 (22/09/2025)
+Topics I covered: The commit phase, how diffing works, diffing rules, key prop & resetting state. Fix 'Eat-n-split' & 'tab' component.
