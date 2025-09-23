@@ -49,3 +49,6 @@ Topics I covered: Components, instances and elements, how rendering works, rende
 
 ## Day 16: Sep 22, 2025 (22/09/2025)
 Topics I covered: The commit phase, how diffing works, diffing rules, key prop & resetting state. Fix 'Eat-n-split' & 'tab' component.
+
+## Day 17: Sep 23, 2025 (23/09/2025)
+Topics I covered: Rules for render logic - pure components, state update batching, how events work in react, and the react ecosystem.
