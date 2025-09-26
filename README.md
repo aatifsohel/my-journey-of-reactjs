@@ -52,3 +52,6 @@ Topics I covered: The commit phase, how diffing works, diffing rules, key prop &
 
 ## Day 17: Sep 23, 2025 (23/09/2025)
 Topics I covered: Rules for render logic - pure components, state update batching, how events work in react, and the react ecosystem.
+
+## Day 18: Sep 26, 2025 (26/09/2025)
+Topics I covered: Component life cycle,how not to fetch data, useEffect hook, async fn() and handling errors & dependency array in useEffect.
