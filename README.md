@@ -55,3 +55,9 @@ Topics I covered: Rules for render logic - pure components, state update batchin
 
 ## Day 18: Sep 26, 2025 (26/09/2025)
 Topics I covered: Component life cycle,how not to fetch data, useEffect hook, async fn() and handling errors & dependency array in useEffect.
+
+## Day 19: Sep 27, 2025 (27/09/2025)
+Topics I covered: Implemented query synchronisation with the movie data, useEffect & dependency array and revised previous material.
+
+## Day 20: Sep 28, 2025 (28/09/2025)
+Topics I covered: Select movie & show its detail, Adding & removing it to watched movie list, Change page title & cleanup function, AbortController() browser API and cleanup data fetching.
