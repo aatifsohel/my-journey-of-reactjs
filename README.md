@@ -61,3 +61,15 @@ Topics I covered: Implemented query synchronisation with the movie data, useEffe
 
 ## Day 20: Sep 28, 2025 (28/09/2025)
 Topics I covered: Select movie & show its detail, Adding & removing it to watched movie list, Change page title & cleanup function, AbortController() browser API and cleanup data fetching.
+
+## Day 21: Sep 29, 2025 (29/09/2025)
+Topics I covered: Rules of React Hooks, useState hook - multiple ways of updating & creating state, get data from localstorage inside useState and useRef hook - selecting DOM elements in react way
+
+## Day 22: Sep 30, 2025 (30/09/2025)
+Topics I covered: refs to persist data between renders, added feature - focus on keypress, custom hooks in react and created some custom hooks
+
+## Day 23: Oct 01, 2025 (01/10/2025)
+Topics I covered: useReducer react hook, managing related piece of state and managing state with useReducer
+
+## Day 24: Oct 02, 2025 (02/10/2025)
+Topics I covered: started building 'React Quiz' app, load data from fake API, add different state - loading, ready & error, add start quiz & load question and display question
