@@ -73,3 +73,15 @@ Topics I covered: useReducer react hook, managing related piece of state and man
 
 ## Day 24: Oct 02, 2025 (02/10/2025)
 Topics I covered: started building 'React Quiz' app, load data from fake API, add different state - loading, ready & error, add start quiz & load question and display question
+
+## Day 25: Oct 03, 2025 (03/10/2025)
+Topics I covered: Finished building 'React Quiz' app using react useReducer and useEffect hook and implemented features - timing, finish & start screen, display new question & next, restart quiz
+
+## Day 26: Oct 04, 2025 (04/10/2025)
+Topics I covered: React Router & SPAs, BrowserRouter, Routes, Route, Link and NavLink, Linking between routes, different styling option for react app and use CSS module for styling
+
+## Day 27: Oct 05, 2025 (05/10/2025)
+Topics I covered: Build pages for the WorldWise app, build app layout and setup routes, nested routes and index route
+
+## Day 28: Oct 06, 2025 (06/10/2025)
+Topics I covered: Implemented country & cities list, storing state in the URL, Dynamic routes & query string, useParams, useSearchParams & useNavigate hook and navigate from react router.
